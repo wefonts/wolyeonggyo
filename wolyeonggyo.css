@@ -2,14 +2,14 @@
   font-family: "wolyeonggyo";
   font-weight: normal;
   font-style: normal;
-  src: url("https://cdn.jsdelivr.net/gh/webfonts/wolyeonggyo/wolyeonggyo.eot");
-  src: url("https://cdn.jsdelivr.net/gh/webfonts/wolyeonggyo/wolyeonggyo.eot?#iefix")
+  src: url("https://cdn.jsdelivr.net/gh/wefonts/wolyeonggyo/wolyeonggyo.eot");
+  src: url("https://cdn.jsdelivr.net/gh/wefonts/wolyeonggyo/wolyeonggyo.eot?#iefix")
       format("embedded-opentype"),
-    url("https://cdn.jsdelivr.net/gh/webfonts/wolyeonggyo/wolyeonggyo.woff2")
+    url("https://cdn.jsdelivr.net/gh/wefonts/wolyeonggyo/wolyeonggyo.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/webfonts/wolyeonggyo/wolyeonggyo.woff")
+    url("https://cdn.jsdelivr.net/gh/wefonts/wolyeonggyo/wolyeonggyo.woff")
       format("woff"),
-    url("https://cdn.jsdelivr.net/gh/webfonts/wolyeonggyo/wolyeonggyo.ttf")
+    url("https://cdn.jsdelivr.net/gh/wefonts/wolyeonggyo/wolyeonggyo.ttf")
       format("truetype");
   font-display: swap;
 }
